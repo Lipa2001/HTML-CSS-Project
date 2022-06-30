@@ -1,0 +1,10 @@
+header img{
+    background: red;
+	color: white;
+	height: 50px;
+}
+
+nav ul{
+	display: inline;
+	padding: 30px 10px 21px 10px;
+}
